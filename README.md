@@ -1,7 +1,7 @@
 
 Animated cloth / Flag waving
 
-![enter image description here](https://github.com/kellycode/flag-waving/raw/main/public_img.jpg)
+![enter image description here]
 
 Based on the (now removed) Animation / Cloth Three.js experiment that was at at https://threejs.org/examples/#webgl_animation_cloth
 
